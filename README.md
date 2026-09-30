@@ -46,9 +46,9 @@ melisa = {
 
 ### Featured Projects
 
-- **Predicting NFL Quarterback Contract Outcomes**: classification with Logistic Regression, SVM, and Random Forest (~80% accuracy)
-- **Predicting Flight Delays During US Shutdowns**: Random Forest modeling on data from three DC-area airports
-- **Sign Language Data Representation & Classification**: comparing PCA, Kernel PCA, and Isomap with an RBF-kernel SVM for sign language image classification (MATLAB)
+- **[Predicting NFL Quarterback Contract Outcomes](https://github.com/ecemelisakocak/nfl-quarterback-contract-prediction)**: classification with Logistic Regression, SVM, and Random Forest (~80% accuracy)
+- **[Predicting Flight Delays During US Shutdowns](https://github.com/ecemelisakocak/us-flight-delays-ds-tutorial)**: Random Forest modeling on data from three DC-area airports
+- **[Sign Language Data Representation & Classification](https://github.com/ecemelisakocak/sign-language-classification-analysis)**: comparing PCA, Kernel PCA, and Isomap with an RBF-kernel SVM for sign language image classification (MATLAB)
 
 ### Certifications
 
