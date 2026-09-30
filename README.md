@@ -52,7 +52,9 @@ melisa = {
 
 ### Certifications
 
-Google Cybersecurity · Google Data Analytics · Pearson Wireshark 101
+* Google Cybersecurity
+* Google Data Analytics
+* Pearson Wireshark 101
 
 ---
 
